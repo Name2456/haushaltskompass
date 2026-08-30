@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://name2456.github.io/haushaltskompass/sitemap.xml
